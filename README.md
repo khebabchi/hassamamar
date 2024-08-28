@@ -3,7 +3,7 @@
 I'm Amar, a passionate **Computer Science student at ESI-Alger** with a deep love for **web development** and an ever-growing curiosity for **embedded systems** and **desktop apps**. Whether it's crafting seamless user experiences with **Next.js** or diving into the performance wonders of **Rust**, I love pushing the boundaries of technology.
 
 ### 🔭 What I'm working on:
-I’m currently building a **Next.js desktop app** that integrates with **Google Drive's API** for efficient file management. This project is a mix of everything I love: intuitive UI, efficient back-end logic, and third-party APIs.
+I’m currently building a **Next.js & tauri desktop app** that integrates with **Google Drive's API** for efficient file management. This project is a mix of everything I love: intuitive UI, efficient back-end logic, and third-party APIs.
 
 ### 🌱 What I'm learning:
 I'm expanding my skill set in:
