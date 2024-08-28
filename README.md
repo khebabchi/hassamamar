@@ -8,7 +8,7 @@ I’m currently building a **Next.js & tauri desktop app** that integrates with 
 ### 🌱 What I'm learning:
 I'm expanding my skill set in:
 - **Rust** – for fast and reliable systems programming
-- **Qt** & **Tauri** – to bridge the gap between web and desktop development
+- **Qt** & **Tauri** – to enchance my skills on desktop development
 - **Unity** – exploring game development as a way to dive deeper into graphics and physics engines.
 
 ### 👯 Let’s collaborate on:
