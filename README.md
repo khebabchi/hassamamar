@@ -1,14 +1,34 @@
-## Hi there 👋
+## Hey there! 👋 Welcome to my GitHub profile! 
 
-**hassamamar/hassamamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amar, a passionate **Computer Science student at ESI-Alger** with a deep love for **web development** and an ever-growing curiosity for **embedded systems** and **desktop apps**. Whether it's crafting seamless user experiences with **Next.js** or diving into the performance wonders of **Rust**, I love pushing the boundaries of technology.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on:
+I’m currently building a **Next.js desktop app** that integrates with **Google Drive's API** for efficient file management. This project is a mix of everything I love: intuitive UI, efficient back-end logic, and third-party APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 What I'm learning:
+I'm expanding my skill set in:
+- **Rust** – for fast and reliable systems programming
+- **Qt** & **Tauri** – to bridge the gap between web and desktop development
+- **Unity** – exploring game development as a way to dive deeper into graphics and physics engines.
+
+### 👯 Let’s collaborate on:
+I’m excited to work on projects that involve:
+- **Web development** (React, Next.js)
+- **Cross-platform desktop apps**
+- **Rust** projects that explore performance and safety
+
+### 🤔 I could use some help with:
+- Advanced **embedded systems** concepts
+- **Game development** best practices in **Unity**
+
+### 💬 Ask me about:
+If you're curious about anything related to **React**, **Next.js**, **Rust**, or just want to geek out over **web technologies**, I’m all ears! Let’s chat.
+
+### 📫 How to reach me:
+You can reach me at [ma_hassam@esi.dz](mailto:ma_hassam@esi.dz). Or hit me up via GitHub, I’m always open for a conversation!
+
+### 😄 Pronouns: 
+He/Him
+
+### ⚡ Fun fact:
+Did you know? I love the challenge of combining **web tech** with **rust developement and wasm** !
